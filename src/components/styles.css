@@ -185,13 +185,13 @@
     .card {
         width: 90%;
         flex-direction: column;
-        padding: 5px;
+
     }
 
     .img-wrapper, .card img {
         width: 100%;
         margin-top: 10px;
-        padding: 5px;
+
     }
 
     .card-body {
